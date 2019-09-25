@@ -71,6 +71,20 @@ hr {
   
 }
 
+.btn-whatsapp {
+  display:block;
+  width:70px;
+  height:70px;
+  color#fff;
+  position: fixed;
+  right:20px;
+  bottom:110px;
+  border-radius:50%;
+  line-height:80px;
+  text-align:center;
+  z-index:999;
+}
+
 
 .btn-primary:hover, 
 .btn-primary:focus{
@@ -374,7 +388,7 @@ input.search-form:hover {
 }
 
 #main-slider .carousel .carousel-content {
-  margin-top: 150px;
+  margin-top: 70px;
 }
 
 #main-slider .carousel .slide-margin{
@@ -410,7 +424,7 @@ input.search-form:hover {
   position: absolute;
   width: 100%;
   display: block !important;
-  height: 730px;
+  height: 500px;
   -webkit-transition: opacity ease-in-out 500ms;
   -moz-transition: opacity ease-in-out 500ms;
   -o-transition: opacity ease-in-out 500ms;
