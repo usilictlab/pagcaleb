@@ -182,7 +182,7 @@ $transformacion_digital=$_REQUEST['civerseguridad'];
 }
 
 $fire="";
-$file = $nombre.",".$apellidos.",".$email.",".$celular.",".$civerseguridad.",".$transformacion_digital;
+$file = $nombre.",".$apellidos.",".$email.",".$celular.",".$civerseguridad.",".$transformacion_digital.";\n";
 
 
 // Modificar linea deseada
@@ -193,7 +193,7 @@ $fh   = fopen("datos.txt", 'r+') or die("Ocurrio un error al abrir el archivo");
   $texto = fgets($fh);
   
   fseek($fh, 0, SEEK_END);
-  fwrite($fh, "$file"."\n") or die("No se puede escribir en el archivo");
+  fwrite($fh, "$file") or die("No se puede escribir en el archivo");
   fclose($fh);  
 
 ?>
