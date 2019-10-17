@@ -63,7 +63,7 @@ hr {
 
 .btn-primary {
   padding: 12px 40px;
-  background: #191965;
+  background: white;
   color: #fff;
   border-radius: 16px;
   border:none;
@@ -88,7 +88,7 @@ hr {
 
 .btn-primary:hover, 
 .btn-primary:focus{
-  background: white;
+  background: #191965;
   border: 2px solid #191965;
   color: #191965;
 
