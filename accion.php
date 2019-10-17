@@ -53,14 +53,14 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo" width="217.056" height="55" style="vertical-align:unset"></a>
+                    <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="logo" width="217.056" height="55" style="vertical-align:unset"></a>
                 </div>
 				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.html">Home</a></li> 
+                        <li class="active"><a href="index.php">Home</a></li> 
                         <li class="dropdown">
-                            <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Cursos de especialización <i class="fa fa-angle-down"></i></a>
+                            <a href="index.php" class="dropdown-toggle" data-toggle="dropdown">Cursos de especialización <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li><a href="gestion-de-la-transformacion-digital.html">Gestión de la transformación digital</a></li>
                                 <li><a href="ciberseguridad-para-los-negocios.html">Ciberseguridad para los negocios</a></li>
@@ -75,64 +75,19 @@
 		
     </header><!--/header-->
 
-    <section id="main-slider" class="no-margin">
-        <div class="carousel slide">
-            <ol class="carousel-indicators">
-                <li data-target="#main-slider" data-slide-to="0" class="active"></li>
-                <li data-target="#main-slider" data-slide-to="1"></li>
-            </ol>
-            <div class="carousel-inner">
-
-                <div class="item active" style="background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(images/slider/bg1.png); ">
-                    <div class="container">
-                        <div class="row slide-margin" style="margin-left: 40px; margin-top: -20px">
-                            <div class="col-sm-6" style="width: 80%;">
-                                <div class="carousel-content">
-                                    <h1 class="animation animated-item-1" style="font-size: 30px;">GESTIÓN DE LA TRANSFORMACIÓN DIGITAL</h1>
-                                    <h2 class="animation animated-item-1">Inicio del programa: 15 octubre 2019</h2>
-                                    <h2 class="animation animated-item-1">Horarios: 7 a 10 pm, martes</h2>
-                                    <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
-                                    <h2 class="animation animated-item-1"style="text-align: left;"></h2>
-                                    <a href="gestion-de-la-transformacion-digital.html" ><h2 class="animation animated-item-1" style="text-decoration: underline; color: #ffffff">Mas información</h2></a>
-                                    <a class="btn btn-primary"  target="_blank" href="http://bit.ly/cursoTD" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" ></i>  INSCRÍBETE</i>
-                                    </a>
-                                </div>
-                            </div>
-                            
-                        </div>
-                        
-                    </div>
-                </div><!--/.item-->
-
-                <div class="item" style="background-image: linear-gradient( rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(images/slider/bg2.png)">
-                    <div class="container">
-                        <div class="row slide-margin" style="margin-left: 40px; margin-top: -20px">
-                            <div class="col-sm-6" style="width: 80%;">
-                                <div class="carousel-content">
-                                    <h1 class="animation animated-item-1" style="font-size: 30px;">CIBERSEGURIDAD PARA LOS NEGOCIOS</h1>
-                                    <h2 class="animation animated-item-1">Inicio del programa: 14 octubre 2019</h2>
-                                    <h2 class="animation animated-item-1">Horarios: 7 a 10 pm, lunes</h2>
-                                    <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
-                                    <h2 class="animation animated-item-1" style="text-align: left;"></h2>
-                                    <a href="ciberseguridad-para-los-negocios.html" ><h2 class="animation animated-item-1" style="text-decoration: underline; color: #ffffff">Mas información</h2></a>
-                                    <a class="btn btn-primary" target="_blank" href="http://bit.ly/cursoCN" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" ></i>  INSCRÍBETE</i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div><!--/.item-->
-            </div><!--/.carousel-inner-->
-        </div><!--/.carousel-->
-        <a class="prev hidden-xs" href="#main-slider" data-slide="prev">
-            <i class="fa fa-chevron-left"></i>
-        </a>
-        <a class="next hidden-xs" href="#main-slider" data-slide="next">
-            <i class="fa fa-chevron-right"></i>
-        </a>
-    </section><!--/#main-slider-->
-
     
+    <section id="inscripciones" style="background: #f5f5f5">
+        <div class="container">
+            <div class="center">        
+                <h2>Tus datos fueron enviados</h2>
+                <p class="lead">Nos estaremos poniendo en contacto lo antes posible.</p>
+                <p>    </p>
+                <p> estimado <?php echo htmlspecialchars($_POST['nombres']); ?> <?php echo htmlspecialchars($_POST['apellidos']); ?>.</p>
+                <p> Tenemos tu correo Electrónico registrado <?php echo htmlspecialchars($_POST['email']); ?> y tu numero de Celular: <?php echo (int)$_POST['celular']; ?>, a los cuales nos contactaremos con usted. </p>
+                
+            </div> 
+        </div><!--/.container-->
+    </section><!--/#contact-page-->    
 
     <section id="bottom">
         <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
@@ -141,7 +96,7 @@
                     <div class="widget">
                         <h3>HOME</h3>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                         </ul>
                     </div>    
                 </div><!--/.col-md-3-->
@@ -194,3 +149,51 @@
     <script src="js/wow.min.js"></script>
 </body>
 </html>
+
+<?php 
+$nombre="";
+if (!empty($_REQUEST['nombres'])){
+$nombre=$_REQUEST['nombres'];
+}
+
+$apellidos="";
+if (!empty($_REQUEST['apellidos'])){
+$apellidos=$_REQUEST['apellidos'];
+}
+
+$email="";
+if (!empty($_REQUEST['email'])){
+$email=$_REQUEST['email'];
+}
+
+$celular="";
+if (!empty($_REQUEST['celular'])){
+$celular=(int)$_REQUEST['celular'];
+}
+
+$civerseguridad="";
+if (!empty($_REQUEST['transformacion_digital'])){
+$civerseguridad=$_REQUEST['transformacion_digital'];
+}
+
+$transformacion_digital="";
+if (!empty($_REQUEST['civerseguridad'])){
+$transformacion_digital=$_REQUEST['civerseguridad'];
+}
+
+$fire="";
+$file = $nombre.",".$apellidos.",".$email.",".$celular.",".$civerseguridad.",".$transformacion_digital;
+
+
+// Modificar linea deseada
+
+echo $file;
+
+$fh   = fopen("datos.txt", 'r+') or die("Ocurrio un error al abrir el archivo");
+  $texto = fgets($fh);
+  
+  fseek($fh, 0, SEEK_END);
+  fwrite($fh, "$file"."\n") or die("No se puede escribir en el archivo");
+  fclose($fh);  
+
+?>
