@@ -23,6 +23,8 @@
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+
+    
 </head><!--/head-->
 
 <body class="homepage">
@@ -75,62 +77,62 @@
 		
     </header><!--/header-->
 
-    <section id="main-slider" class="no-margin">
-        <div class="carousel slide">
-            <ol class="carousel-indicators">
-                <li data-target="#main-slider" data-slide-to="0" class="active"></li>
-                <li data-target="#main-slider" data-slide-to="1"></li>
-            </ol>
-            <div class="carousel-inner">
+<section id="main-slider" class="no-margin">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#main-slider" data-slide-to="0" class="active"></li>
+            <li data-target="#main-slider" data-slide-to="1"></li>
+        </ol>
 
-                <div class="item active" style="background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(images/slider/bg1.png); ">
-                    <div class="container">
-                        <div class="row slide-margin" style="margin-left: 40px; margin-top: -20px">
-                            <div class="col-sm-6" style="width: 80%;">
-                                <div class="carousel-content">
-                                    <h1 class="animation animated-item-1" style="font-size: 30px;">GESTIÓN DE LA TRANSFORMACIÓN DIGITAL</h1>
-                                    <h2 class="animation animated-item-1">Inicio del programa: 15 octubre 2019</h2>
-                                    <h2 class="animation animated-item-1">Horarios: 7 a 10 pm, martes</h2>
-                                    <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
-                                    <h2 class="animation animated-item-1"style="text-align: left;"></h2>
-                                    <a href="gestion-de-la-transformacion-digital.html" ><h2 class="animation animated-item-1" style="text-decoration: underline; color: #ffffff">Mas información</h2></a>
-                                    <a class="btn btn-primary"  target="_blank" href="http://bit.ly/cursoTD" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" ></i>  INSCRÍBETE</i>
-                                    </a>
-                                </div>
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="item active" style="background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(images/slider/bg1.png); ">
+                <div class="container">
+                    <div class="row slide-margin" style="margin-left: 40px; margin-top: -20px">
+                        <div class="col-sm-6" style="width: 80%;">
+                            <div class="carousel-content">
+                                <h1 class="animation animated-item-1" style="font-size: 30px;">GESTIÓN DE LA TRANSFORMACIÓN DIGITAL</h1>
+                                <h2 class="animation animated-item-1">Inicio del programa: 29 octubre 2019</h2>
+                                <h2 class="animation animated-item-1">Horarios: 7 a 10 pm, martes</h2>
+                                <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
+                                <h2 class="animation animated-item-1"style="text-align: left;"></h2>
+                                <a href="gestion-de-la-transformacion-digital.html" ><h2 class="animation animated-item-1" style="text-decoration: underline; color: #ffffff">Mas información</h2></a>
+                                <a class="btn btn-primary"  target="_blank" href="index.php#inscripciones" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" ></i>  INSCRÍBETE</i>
+                                </a>
                             </div>
-                            
                         </div>
-                        
-                    </div>
-                </div><!--/.item-->
-
-                <div class="item" style="background-image: linear-gradient( rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(images/slider/bg2.png)">
-                    <div class="container">
-                        <div class="row slide-margin" style="margin-left: 40px; margin-top: -20px">
-                            <div class="col-sm-6" style="width: 80%;">
-                                <div class="carousel-content">
-                                    <h1 class="animation animated-item-1" style="font-size: 30px;">CIBERSEGURIDAD PARA LOS NEGOCIOS</h1>
-                                    <h2 class="animation animated-item-1">Inicio del programa: 14 octubre 2019</h2>
-                                    <h2 class="animation animated-item-1">Horarios: 7 a 10 pm, lunes</h2>
-                                    <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
-                                    <h2 class="animation animated-item-1" style="text-align: left;"></h2>
-                                    <a href="ciberseguridad-para-los-negocios.html" ><h2 class="animation animated-item-1" style="text-decoration: underline; color: #ffffff">Mas información</h2></a>
-                                    <a class="btn btn-primary" target="_blank" href="http://bit.ly/cursoCN" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" ></i>  INSCRÍBETE</i>
-                                    </a>
-                                </div>
+                    </div>    
+                </div>  
+            </div>
+            <div class="item" style="background-image: linear-gradient( rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(images/slider/bg2.png)">
+                <div class="container">
+                    <div class="row slide-margin" style="margin-left: 40px; margin-top: -20px">
+                        <div class="col-sm-6" style="width: 80%;">
+                            <div class="carousel-content">
+                                <h1 class="animation animated-item-1" style="font-size: 30px;">CIBERSEGURIDAD PARA LOS NEGOCIOS</h1>
+                                <h2 class="animation animated-item-1">Inicio del programa: 28 octubre 2019</h2>
+                                <h2 class="animation animated-item-1">Horarios: 7 a 10 pm, lunes</h2>
+                                <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
+                                <h2 class="animation animated-item-1" style="text-align: left;"></h2>
+                                <a href="ciberseguridad-para-los-negocios.html" ><h2 class="animation animated-item-1" style="text-decoration: underline; color: #ffffff">Mas información</h2></a>
+                                <a class="btn btn-primary" target="_blank" href="index.php#inscripciones" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" ></i>  INSCRÍBETE</i>
+                                </a>
                             </div>
                         </div>
                     </div>
-                </div><!--/.item-->
-            </div><!--/.carousel-inner-->
-        </div><!--/.carousel-->
+                </div>
+            </div>
+        </div>
         <a class="prev hidden-xs" href="#main-slider" data-slide="prev">
             <i class="fa fa-chevron-left"></i>
         </a>
         <a class="next hidden-xs" href="#main-slider" data-slide="next">
             <i class="fa fa-chevron-right"></i>
         </a>
+    </div>
     </section><!--/#main-slider-->
+
 
     <section id="inscripciones" style="background: #f5f5f5">
         <div class="container">
