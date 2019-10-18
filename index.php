@@ -94,8 +94,9 @@
                             <div class="carousel-content">
                                 <h1 class="animation animated-item-1" style="font-size: 30px;">GESTIÓN DE LA TRANSFORMACIÓN DIGITAL</h1>
                                 <h2 class="animation animated-item-1">Inicio del programa: 29 octubre 2019</h2>
-                                <h2 class="animation animated-item-1">Horarios: 7 a 10 pm, martes</h2>
+                                <h2 class="animation animated-item-1">Horarios: Martes de 7 a 10 pm</h2>
                                 <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
+                                <h2 class="animation animated-item-1">Central Telefónica: (511) 3171000 anexo 3735</h2>
                                 <h2 class="animation animated-item-1"style="text-align: left;"></h2>
                                 <a href="gestion-de-la-transformacion-digital.html" ><h2 class="animation animated-item-1" style="text-decoration: underline; color: #ffffff">Mas información</h2></a>
                                 <a class="btn btn-primary"  target="_blank" href="index.php#inscripciones" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" >  INSCRÍBETE</i>
@@ -112,8 +113,9 @@
                             <div class="carousel-content">
                                 <h1 class="animation animated-item-1" style="font-size: 30px;">CIBERSEGURIDAD PARA LOS NEGOCIOS</h1>
                                 <h2 class="animation animated-item-1">Inicio del programa: 28 octubre 2019</h2>
-                                <h2 class="animation animated-item-1">Horarios: 7 a 10 pm, lunes</h2>
+                                <h2 class="animation animated-item-1">Horarios: Lunes de 7 a 10 pm</h2>
                                 <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
+                                <h2 class="animation animated-item-1">Central Telefónica: (511) 3171000 anexo 3735</h2>
                                 <h2 class="animation animated-item-1" style="text-align: left;"></h2>
                                 <a href="ciberseguridad-para-los-negocios.html" ><h2 class="animation animated-item-1" style="text-decoration: underline; color: #ffffff">Mas información</h2></a>
                                 <a class="btn btn-primary" target="_blank" href="index.php#inscripciones" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" >  INSCRÍBETE</i>
