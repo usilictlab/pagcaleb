@@ -89,10 +89,10 @@
         <div class="carousel-inner">
             <div class="item active" style="background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(images/slider/bg1.png); ">
                 <div class="container">
-                    <div class="row slide-margin" style="margin-left: 40px; margin-top: -20px">
+                    <div class="row slide-margin" style="margin-left: 40px; margin-top: -20px;">
                         <div class="col-sm-6" style="width: 80%;">
                             <div class="carousel-content">
-                                <h1 class="animation animated-item-1" style="font-size: 30px;">GESTIÓN DE LA TRANSFORMACIÓN DIGITAL</h1>
+                                <h1 class="animation animated-item-1" style="font-size: 25px;">GESTIÓN DE LA TRANSFORMACIÓN DIGITAL</h1>
                                 <h2 class="animation animated-item-1">Inicio del programa: 29 octubre 2019</h2>
                                 <h2 class="animation animated-item-1">Horarios: Martes de 7 a 10 pm</h2>
                                 <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
@@ -108,10 +108,10 @@
             </div>
             <div class="item" style="background-image: linear-gradient( rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(images/slider/bg2.png)">
                 <div class="container">
-                    <div class="row slide-margin" style="margin-left: 40px; margin-top: -20px">
+                    <div class="row slide-margin" style="margin-left: 40px; margin-top: -20px;">
                         <div class="col-sm-6" style="width: 80%;">
                             <div class="carousel-content">
-                                <h1 class="animation animated-item-1" style="font-size: 30px;">CIBERSEGURIDAD PARA LOS NEGOCIOS</h1>
+                                <h1 class="animation animated-item-1" style="font-size: 25px;">CIBERSEGURIDAD PARA LOS NEGOCIOS</h1>
                                 <h2 class="animation animated-item-1">Inicio del programa: 28 octubre 2019</h2>
                                 <h2 class="animation animated-item-1">Horarios: Lunes de 7 a 10 pm</h2>
                                 <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
