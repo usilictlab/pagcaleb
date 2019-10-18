@@ -1,2 +1,2 @@
-nombre,apellidos,email,numero,curso1,curso2,postulante 
+nombre,apellidos,email,numero,curso1,curso2,postulante
 
