@@ -269,7 +269,7 @@
                             <br>
                             <select name="postulante">
                                 <option value="Alumno">Alumno</option>
-                                <option value="Egresado">Egrsado</option>
+                                <option value="Egresado">Egresado</option>
                                 <option value="Publico General">Publico General</option>
                             </select>
                         </div>
