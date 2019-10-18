@@ -98,7 +98,7 @@
                                 <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
                                 <h2 class="animation animated-item-1"style="text-align: left;"></h2>
                                 <a href="gestion-de-la-transformacion-digital.html" ><h2 class="animation animated-item-1" style="text-decoration: underline; color: #ffffff">Mas información</h2></a>
-                                <a class="btn btn-primary"  target="_blank" href="http://bit.ly/cursoTD" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" >  INSCRÍBETE</i>
+                                <a class="btn btn-primary"  target="_blank" href="index.php#inscripciones" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" >  INSCRÍBETE</i>
                                 </a>
                             </div>
                         </div>
@@ -116,7 +116,7 @@
                                 <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
                                 <h2 class="animation animated-item-1" style="text-align: left;"></h2>
                                 <a href="ciberseguridad-para-los-negocios.html" ><h2 class="animation animated-item-1" style="text-decoration: underline; color: #ffffff">Mas información</h2></a>
-                                <a class="btn btn-primary" target="_blank" href="http://bit.ly/cursoCN" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" >  INSCRÍBETE</i>
+                                <a class="btn btn-primary" target="_blank" href="index.php#inscripciones" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" >  INSCRÍBETE</i>
                                 </a>
                             </div>
                         </div>
@@ -188,7 +188,6 @@
                     <h2>CIBERSEGURIDAD PARA LOS NEGOCIOS</h2>
                     <p class="lead"></p>
                 </div>
-
                 <div class="row clearfix">
                     <div class="col-md-4 col-sm-4" style="margin-bottom: 30px;"> 
                         <div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
