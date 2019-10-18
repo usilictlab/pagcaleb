@@ -133,7 +133,7 @@
     </div>
     </section><!--/#main-slider-->
 
-    <section id="docentes">
+    <section id="docentes" style="border-top: 5px solid #191965">
         <div class="container">
             <div class="team">
                 <div class="center wow fadeInDown">
@@ -181,7 +181,7 @@
         </div><!--/.container-->
     </section><!--/docentes-->
 
-    <section id="docentes">
+    <section id="docentes" style="border-top: 5px solid #191965">
         <div class="container">
             <div class="team">
                 <div class="center wow fadeInDown">
@@ -229,7 +229,7 @@
         </div><!--/.container-->
     </section><!--/docentes-->
 
-    <section id="inscripciones" style="background: #f5f5f5">
+    <section id="inscripciones" style="background: #f5f5f5; border-top: 5px solid #191965">
         <div class="container">
             <div class="center">        
                 <h2>Inscríbete</h2>
