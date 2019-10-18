@@ -93,7 +93,7 @@
                         <div class="col-sm-6" style="width: 80%;">
                             <div class="carousel-content">
                                 <h1 class="animation animated-item-1" style="font-size: 30px;">GESTIÓN DE LA TRANSFORMACIÓN DIGITAL</h1>
-                                <h2 class="animation animated-item-1">Inicio del programa: 15 octubre 2019</h2>
+                                <h2 class="animation animated-item-1">Inicio del programa: 29 octubre 2019</h2>
                                 <h2 class="animation animated-item-1">Horarios: 7 a 10 pm, martes</h2>
                                 <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
                                 <h2 class="animation animated-item-1"style="text-align: left;"></h2>
@@ -111,7 +111,7 @@
                         <div class="col-sm-6" style="width: 80%;">
                             <div class="carousel-content">
                                 <h1 class="animation animated-item-1" style="font-size: 30px;">CIBERSEGURIDAD PARA LOS NEGOCIOS</h1>
-                                <h2 class="animation animated-item-1">Inicio del programa: 14 octubre 2019</h2>
+                                <h2 class="animation animated-item-1">Inicio del programa: 28 octubre 2019</h2>
                                 <h2 class="animation animated-item-1">Horarios: 7 a 10 pm, lunes</h2>
                                 <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
                                 <h2 class="animation animated-item-1" style="text-align: left;"></h2>
