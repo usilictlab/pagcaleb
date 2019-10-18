@@ -93,12 +93,12 @@
                         <div class="col-sm-6" style="width: 80%;">
                             <div class="carousel-content">
                                 <h1 class="animation animated-item-1" style="font-size: 30px;">GESTIÓN DE LA TRANSFORMACIÓN DIGITAL</h1>
-                                <h2 class="animation animated-item-1">Inicio del programa: 29 octubre 2019</h2>
+                                <h2 class="animation animated-item-1">Inicio del programa: 15 octubre 2019</h2>
                                 <h2 class="animation animated-item-1">Horarios: 7 a 10 pm, martes</h2>
                                 <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
                                 <h2 class="animation animated-item-1"style="text-align: left;"></h2>
                                 <a href="gestion-de-la-transformacion-digital.html" ><h2 class="animation animated-item-1" style="text-decoration: underline; color: #ffffff">Mas información</h2></a>
-                                <a class="btn btn-primary"  target="_blank" href="index.php#inscripciones" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" ></i>  INSCRÍBETE</i>
+                                <a class="btn btn-primary"  target="_blank" href="http://bit.ly/cursoTD" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" >  INSCRÍBETE</i>
                                 </a>
                             </div>
                         </div>
@@ -111,12 +111,12 @@
                         <div class="col-sm-6" style="width: 80%;">
                             <div class="carousel-content">
                                 <h1 class="animation animated-item-1" style="font-size: 30px;">CIBERSEGURIDAD PARA LOS NEGOCIOS</h1>
-                                <h2 class="animation animated-item-1">Inicio del programa: 28 octubre 2019</h2>
+                                <h2 class="animation animated-item-1">Inicio del programa: 14 octubre 2019</h2>
                                 <h2 class="animation animated-item-1">Horarios: 7 a 10 pm, lunes</h2>
                                 <h2 class="animation animated-item-1">Lugar: Av. La Fontana 550, La Molina</h2>
                                 <h2 class="animation animated-item-1" style="text-align: left;"></h2>
                                 <a href="ciberseguridad-para-los-negocios.html" ><h2 class="animation animated-item-1" style="text-decoration: underline; color: #ffffff">Mas información</h2></a>
-                                <a class="btn btn-primary" target="_blank" href="index.php#inscripciones" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" ></i>  INSCRÍBETE</i>
+                                <a class="btn btn-primary" target="_blank" href="http://bit.ly/cursoCN" style="font-size: 22px;"><i class="fa fa-hand-o-up" aria-hidden="true" >  INSCRÍBETE</i>
                                 </a>
                             </div>
                         </div>
@@ -133,6 +133,101 @@
     </div>
     </section><!--/#main-slider-->
 
+    <section id="docentes">
+        <div class="container">
+            <div class="team">
+                <div class="center wow fadeInDown">
+                    <h2>GESTIÓN DE LA TRANSFORMACIÓN DIGITAL</h2>
+                    <p class="lead"></p>
+                </div>
+
+                <div class="row clearfix">
+                    <div class="col-md-4 col-sm-4" style="margin-bottom: 30px;"> 
+                        <div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+                            <div class="media">
+                                <div class="media-body" style="text-align: center;">
+                                    <a href="gestion-de-la-transformacion-digital.html#sobrenosotros" >
+                                    <h4>SOBRE EL PROGRAMA</h4>
+                                    <i class="fa fa-file-text-o" style="font-size: 60px; line-height: 45px; margin-right: 0px;"></i>
+                                    </a>
+                                </div>
+                            </div><!--/.media -->
+                        </div>
+                    </div><!--/.col-lg-4 -->
+                    <div class="col-md-4 col-sm-4" style="margin-bottom: 30px;"> 
+                        <div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+                            <div class="media">
+                                <div class="media-body" style="text-align: center;">
+                                    <a href="gestion-de-la-transformacion-digital.html#contenido">
+                                    <h4>CONTENIDO</h4>
+                                    <i class="fa fa-list-alt" style="font-size: 60px; line-height: 45px; margin-right: 0px;"></i></a>
+                                </div>
+                            </div><!--/.media -->
+                        </div>
+                    </div><!--/.col-lg-4 -->
+                    <div class="col-md-4 col-sm-4" style="margin-bottom: 30px;"> 
+                        <div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+                            <div class="media">
+                                <div class="media-body" style="text-align: center;">
+                                    <a href="gestion-de-la-transformacion-digital.html#docentes">
+                                    <h4>DOCENTES</h4>
+                                    <i class="fa fa-users" style="font-size: 60px; line-height: 45px; margin-right: 0px;"></i></a>
+                                </div>
+                            </div><!--/.media -->
+                        </div>
+                    </div><!--/.col-lg-4 -->                    
+                </div> <!--/.row -->
+            </div><!--section-->
+        </div><!--/.container-->
+    </section><!--/docentes-->
+
+    <section id="docentes">
+        <div class="container">
+            <div class="team">
+                <div class="center wow fadeInDown">
+                    <h2>CIBERSEGURIDAD PARA LOS NEGOCIOS</h2>
+                    <p class="lead"></p>
+                </div>
+
+                <div class="row clearfix">
+                    <div class="col-md-4 col-sm-4" style="margin-bottom: 30px;"> 
+                        <div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+                            <div class="media">
+                                <div class="media-body" style="text-align: center;">
+                                    <a href="ciberseguridad-para-los-negocios.html#sobrenosotros" >
+                                    <h4>SOBRE EL PROGRAMA</h4>
+                                    <i class="fa fa-file-text-o" style="font-size: 60px; line-height: 45px; margin-right: 0px;"></i>
+                                    </a>
+                                </div>
+                            </div><!--/.media -->
+                        </div>
+                    </div><!--/.col-lg-4 -->
+                    <div class="col-md-4 col-sm-4" style="margin-bottom: 30px;"> 
+                        <div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+                            <div class="media">
+                                <div class="media-body" style="text-align: center;">
+                                    <a href="ciberseguridad-para-los-negocios.html#contenido">
+                                    <h4>CONTENIDO</h4>
+                                    <i class="fa fa-list-alt" style="font-size: 60px; line-height: 45px; margin-right: 0px;"></i></a>
+                                </div>
+                            </div><!--/.media -->
+                        </div>
+                    </div><!--/.col-lg-4 -->
+                    <div class="col-md-4 col-sm-4" style="margin-bottom: 30px;"> 
+                        <div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+                            <div class="media">
+                                <div class="media-body" style="text-align: center;">
+                                    <a href="ciberseguridad-para-los-negocios.html#docentes">
+                                    <h4>DOCENTES</h4>
+                                    <i class="fa fa-users" style="font-size: 60px; line-height: 45px; margin-right: 0px;"></i></a>
+                                </div>
+                            </div><!--/.media -->
+                        </div>
+                    </div><!--/.col-lg-4 -->                    
+                </div> <!--/.row -->
+            </div><!--section-->
+        </div><!--/.container-->
+    </section><!--/docentes-->
 
     <section id="inscripciones" style="background: #f5f5f5">
         <div class="container">
@@ -155,18 +250,27 @@
                             <label>Correo Electronico *</label>
                             <input type="email" name="email" class="form-control">
                         </div>
-                                                                       
-                    </div>
-                    <div class="col-sm-5">
                         <div class="form-group">
                             <label>Numero de Celular</label>
                             <input type="number" name="celular" class="form-control">
-                        </div>
+                        </div>                                        
+                    </div>
+                    <div class="col-sm-5">
                         <div class="form-group">
                             <label>Curso de interes *</label>
                             <br>
-                            <input type="checkbox" name="transformacion_digital" value="Gestión de la transformación digital"> Gestión de la transformación digital <br>
+                            <input type="checkbox" name="transformacion_digital" value="Gestión de la transformación digital">Gestión de la transformación digital <br>
                             <input type="checkbox" name="civerseguridad" value="Ciberseguridad para los negocios"> Ciberseguridad para los negocios <br>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label>Postulante *</label>
+                            <br>
+                            <select name="postulante">
+                                <option value="Alumno">Alumno</option>
+                                <option value="Egresado">Egrsado</option>
+                                <option value="Publico General">Publico General</option>
+                            </select>
                         </div>
                         <div class="form-group">
                             <p><input class="btn btn-primary" type="submit" /></p>
@@ -208,7 +312,7 @@
                             <li><a href=""></a>Central: (511) 317 - 1000</li>
                             <br>
                             <li><a href=""></a>Redes sociales</li>
-                            <li><a href=""></a><i class="fa fa-facebook-square" style="font-size: 30px; line-height: 45px; margin-right: 0px;"></i></li>
+                            <li><a href="https://www.facebook.com/ciisUSIL"><i class="fa fa-facebook-square" style="font-size: 30px; line-height: 45px; margin-right: 0px;"></i></a></li>
                         </ul>
                     </div>    
                 </div><!--/.col-md-3-->

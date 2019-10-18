@@ -82,9 +82,10 @@
                 <h2>Tus datos fueron enviados</h2>
                 <p class="lead">Nos estaremos poniendo en contacto lo antes posible.</p>
                 <p>    </p>
-                <p> estimado <?php echo htmlspecialchars($_POST['nombres']); ?> <?php echo htmlspecialchars($_POST['apellidos']); ?>.</p>
+                <p> Estimado <?php echo htmlspecialchars($_POST['nombres']); ?> <?php echo htmlspecialchars($_POST['apellidos']); ?>.</p>
                 <p> Tenemos tu correo Electrónico registrado <?php echo htmlspecialchars($_POST['email']); ?> y tu numero de Celular: <?php echo (int)$_POST['celular']; ?>, a los cuales nos contactaremos con usted. </p>
-                
+                <a class="btn btn-primary" target="_blank" href="http://bit.ly/cursoCN" style="font-size: 22px;">VOLVER
+                </a>        
             </div> 
         </div><!--/.container-->
     </section><!--/#contact-page-->    
@@ -119,7 +120,7 @@
                             <li><a href=""></a>Central: (511) 317 - 1000</li>
                             <br>
                             <li><a href=""></a>Redes sociales</li>
-                            <li><a href=""></a><i class="fa fa-facebook-square" style="font-size: 30px; line-height: 45px; margin-right: 0px;"></i></li>
+                            <li><a href="https://www.facebook.com/ciisUSIL"><i class="fa fa-facebook-square" style="font-size: 30px; line-height: 45px; margin-right: 0px;"></i></a></li>
                         </ul>
                     </div>    
                 </div><!--/.col-md-3-->
@@ -181,8 +182,13 @@ if (!empty($_REQUEST['civerseguridad'])){
 $transformacion_digital=$_REQUEST['civerseguridad'];
 }
 
+$postulante="";
+if (!empty($_REQUEST['postulante'])){
+$postulante=$_REQUEST['postulante'];
+}
+
 $fire="";
-$file = $nombre.",".$apellidos.",".$email.",".$celular.",".$civerseguridad.",".$transformacion_digital.";\n";
+$file = $nombre.",".$apellidos.",".$email.",".$celular.",".$civerseguridad.",".$transformacion_digital.",".$postulante.";\n";
 
 
 // Modificar linea deseada
